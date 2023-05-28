@@ -1,0 +1,42 @@
+
+
+h1{
+    color: #154c79;
+    background-color:hsl(60, 65%, 66%) 65%, 66%);
+    font-family: sans-serif;
+    padding-left: 20px;
+    text-align: center 
+
+}
+
+ul{
+    color: #49be25;
+    font-family: sans-serif;
+}
+
+h3{
+    color: #96be25;
+    font-family: sans-serif;
+    padding-left: 20px; 
+    
+}
+
+p {
+    color: gray
+    font-size: 30px
+
+}
+
+div {
+  display: grid;
+  place-items: center;
+  border: 1px solid 
+}
+
+.form-group {
+  color:#87CEEB;
+}
+
+body {
+  background-color: #d3eaf2;
+}
